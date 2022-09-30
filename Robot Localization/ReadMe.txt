@@ -9,7 +9,7 @@ was held constant for all simulations to provide a better baseline for performan
 If there are any questions regarding the files, feel free to contact:
 alexaan2@uci.edu
 
-Edit 6/14/21:
+Edittd on June 14th, 2021:
 I've updated my report and simulation files with the corrected linearized observation Jacobian Matrices. Also, new 
 performance plots (RMSE, NEES, NIS, Estimation Error) were added to the scripts included in the Matlab.zip file. The 
 report had its loop closure tables updated too.
