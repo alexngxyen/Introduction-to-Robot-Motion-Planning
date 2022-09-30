@@ -12,6 +12,4 @@ alexaan2@uci.edu
 Edit 6/14/21:
 I've updated my report and simulation files with the corrected linearized observation Jacobian Matrices. Also, new 
 performance plots (RMSE, NEES, NIS, Estimation Error) were added to the scripts included in the Matlab.zip file. The 
-report had its loop closure tables updated too. My apologies for not being able to include these performance plots results
-into my report. Due to a fast approaching research deadline (June 30th), I need to transition immediately to my research 
-work. I accept any lost points due to not reformating report. Sorry again.
+report had its loop closure tables updated too.
